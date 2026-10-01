@@ -1,0 +1,19 @@
+body{display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-image:url(train.webp) ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+button{background: rgb(199, 249, 235);
+    font-size: 17px;
+    margin-top: 6px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;}
+
+#save-btn{background: rgb(189, 227, 250);}
+
